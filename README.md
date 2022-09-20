@@ -1,7 +1,5 @@
 # TO DO APP
 
-## coded with react.js
-
-*i coded in single .js file without using component*
+## coded with redux
 
 ![TO-DO-APP](/public/readme.png)
