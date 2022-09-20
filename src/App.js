@@ -7,7 +7,7 @@ import Header from './components/Header';
 function App() {
   return (
     <React.Fragment>
-      <section class="todoapp">
+      <section className="todoapp">
         <Header />
         <Content />
       </section>
